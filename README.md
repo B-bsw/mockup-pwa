@@ -1,4 +1,4 @@
-# startup
+# Getting Started
 
 <div align="center">
     <kbd>
